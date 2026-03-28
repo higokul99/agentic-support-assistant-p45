@@ -1,0 +1,7 @@
+.env
+.venv
+v12-ai
+__pycache__/
+*.py[cod]
+*.db
+.python-version

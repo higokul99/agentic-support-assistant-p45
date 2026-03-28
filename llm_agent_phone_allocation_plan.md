@@ -213,10 +213,11 @@ def assign(employee_id: str):
 ---
 
 ## 🗄️ Database Design
-
+PostgreSQL
 ### employees
 - id
 - name
+- designation
 - location
 - building
 - manager_id
